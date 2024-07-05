@@ -1,0 +1,1 @@
+# Critical Point Between Nodes solution.
